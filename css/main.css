@@ -257,3 +257,17 @@ a.link_tyc{
 a.link_tyc:visited{
    color: #545554;
 }
+
+.modal-body > h4.modal-title, .modal-body > h5.modal-title{
+   font-family: 'Gill Sans Display MT Pro Bold';
+   color: #000;
+   font-style: normal;
+   margin-bottom: 10px;;
+}
+
+.modal-body > p{
+   font-family: 'Gill Sans Nova Light';
+   color: #000;
+   font-style: normal;
+   font-size: .9rem;
+}
